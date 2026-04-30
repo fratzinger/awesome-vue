@@ -6,6 +6,10 @@
 4. The list should contain awesome things. Just useful is not enough, especially if its for niche use cases. 
 5. If your library has a lot of overlap, or just supports a subset of one of the 'Truly awesome' project then the bar for inclusion is even higher.
 
+## AI / Agentic coding
+
+While AI (agents) are a powerful tool, its not always delivering at the quality level you would want for stuff on an awesome list. This doesn't mean such projects are no candidate for inclusion, but that they will be held to even stricter requirements. To prove its not something that's just a one-off creation there should be at least 3 updates published with a minimum of a month between first and last release.
+
 ## Projects using Vuejs
 
 Make sure you put things in the right category. There are two main categories:
